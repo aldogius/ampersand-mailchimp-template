@@ -1,6 +1,4 @@
-# Created by https://www.gitignore.io
 
-### Node ###
 # Logs
 logs
 *.log
@@ -31,3 +29,4 @@ node_modules
 
 
 config.js
+
