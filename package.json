@@ -1,0 +1,18 @@
+{
+  "name": "mailchimp-example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    "mailchimp-api": "*"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-file-include": "^0.11.1"
+  }
+}
